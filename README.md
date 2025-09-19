@@ -12,6 +12,9 @@
 
 ---
 
+<img width="1024" height="1024" alt="e7219ca7-e146-4355-a206-e8b5a35973dc" src="https://github.com/user-attachments/assets/8e82685a-31d8-486c-a1de-83a27964088b" />
+
+
 ## 🌍 Языки / Languages / Sprachen / Idiomas
 - 🇷🇺 [Русский](#-описание-и-функции)
 - 🇬🇧 [English](#-description--features)
