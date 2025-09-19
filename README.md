@@ -1,4 +1,5 @@
-# ⚔️ Chivalry 2 — Чит / Mod Launcher (Aimbot, ESP, Wallhack, Auto Block)
+# ⚔️ Chivalry 2 Cheat / Mod Launcher — Aimbot, ESP, Wallhack, Auto Block, Speedhack
+
 
 <p align="center">
   <a href="https://github.com/chivalry2-cheat-launcher/chivalry2-cheat-launcher/releases/latest">
